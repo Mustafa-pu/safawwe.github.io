@@ -7,9 +7,9 @@ Depends:  firmware (>= 11.0), mobilesubstrate
 Conflicts: com.unlimapps.uaupdatetools	
 Filename: debs/com.cokepokes.appstoreplusplus_0.9.5_iphoneos-arm.deb	
 Size: 1670732	
-MD5sum: e6e914ec0c7e9938241241a96d5c4821	
-SHA1: 056678da97b18a9d880a332c90dcf12c5c0ef674	
-SHA256: 3742beed0cab8114ac1e7c4d5c81fa30c467edd29df710204f9e3d8923b059e2	
+MD5sum: 58167C3E0A723E6081E6F7AF08A9590A	
+SHA1: 63A588FD9EA2E5FA10BA334D6831C788FFAB4785	
+SHA256: 2DAE2BA43109A9DA66B128857B38F1DF6AAC13C7F73933D6ECD53DF9D6A14FC1	
 Section: Tweaks	Section: Tweaks
 Depiction: https://x7mii15.github.io/test	Depiction: https://repo.packix.com/package/com.ioscreatix.littlex/
 Name: hack
